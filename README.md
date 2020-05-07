@@ -8,9 +8,16 @@
 
 - [🧭 Objectives](#🧭%20Objectives)
 - [🔄 Prerequisites](#🔄%20Prerequisites)
-- [⚡ Initialize](#⚡%20Initialize)
-- [🧱 Breakout Sessions 🛠](#🧱%20Breakout%20Sessions%20🛠)
-- [🌯 Wrap Up](#🌯%20Wrap%20Up)
+- [⏳ Schedule](#⏳%20Schedule)
+  - [⚡ Initialize](#⚡%20Initialize)
+  - [🧱 Breakout Sessions 🛠](#🧱%20Breakout%20Sessions%20🛠)
+  - [🌯 Wrap Up](#🌯%20Wrap%20Up)
+
+> **Navigation**:
+⬅ Previous |
+[Next ➡](#🧭%20Objectives) |
+[🔭 Overview](#🔭%20Overview) |
+[Top ⤴](#🐍%20Battle%20Snake,%20Hack%20&%20Refactor;%20Quick%20Start%20Boilerplate%20Code)
 
 ---
 
@@ -25,6 +32,12 @@
   - Simple AI
   - FSMs - [Finite State Machines](https://en.wikipedia.org/wiki/Finite-state_machine)
 - Start hacking 👩‍💻👨‍💻
+
+> **Navigation**:
+[⬅ Previous](#🔭%20Overview) |
+[Next ➡](#🔄%20Prerequisites) |
+[🔭 Overview](#🔭%20Overview) |
+[Top ⤴](#🐍%20Battle%20Snake,%20Hack%20&%20Refactor;%20Quick%20Start%20Boilerplate%20Code)
 
 ---
 
@@ -50,6 +63,12 @@ There's nothing to install locally, you just need your browser and some websites
 
 - Online IDE with github integration and virtual instance for our web server/service
 
+> **Navigation**:
+[⬅ Previous](#🧭%20Objectives) |
+[Next ➡](#⏳%20Schedule) |
+[🔭 Overview](#🔭%20Overview) |
+[Top ⤴](#🐍%20Battle%20Snake,%20Hack%20&%20Refactor;%20Quick%20Start%20Boilerplate%20Code)
+
 ---
 
 ### ⏳ Schedule
@@ -69,3 +88,9 @@ There's nothing to install locally, you just need your browser and some websites
 #### 🌯 Wrap Up
 
 - [10 minutes] Save, commit, show & tell.
+
+> **Navigation**:
+[⬅ Previous](#🔄%20Prerequisites) |
+Next ➡ |
+[🔭 Overview](#🔭%20Overview) |
+[Top ⤴](#🐍%20Battle%20Snake,%20Hack%20&%20Refactor;%20Quick%20Start%20Boilerplate%20Code)
