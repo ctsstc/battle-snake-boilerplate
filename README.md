@@ -6,18 +6,18 @@
 
 ### 🔭 Overview
 
-- [🧭 Objectives](#🧭%20Objectives)
-- [🔄 Prerequisites](#🔄%20Prerequisites)
-- [⏳ Schedule](#⏳%20Schedule)
-  - [⚡ Initialize](#⚡%20Initialize)
-  - [🧱 Breakout Sessions 🛠](#🧱%20Breakout%20Sessions%20🛠)
-  - [🌯 Wrap Up](#🌯%20Wrap%20Up)
+- [🧭 Objectives](#🧭-Objectives)
+- [🔄 Prerequisites](#🔄-Prerequisites)
+- [⏳ Schedule](#⏳-Schedule)
+  - [⚡ Initialize](#⚡-Initialize)
+  - [🧱 Breakout Sessions 🛠](#🧱-Breakout-Sessions-🛠)
+  - [🌯 Wrap Up](#🌯-Wrap-Up)
 
 > **Navigation**:
 ⬅ Previous |
-[Next ➡](#🧭%20Objectives) |
-[🔭 Overview](#🔭%20Overview) |
-[Top ⤴](#🐍%20Battle%20Snake,%20Hack%20&%20Refactor;%20Quick%20Start%20Boilerplate%20Code)
+[Next ➡](#🧭-Objectives) |
+[🔭 Overview](#🔭-Overview) |
+[Top ⤴](#🐍-Battle-Snake,-Hack-&-Refactor;-Quick-Start-Boilerplate-Code)
 
 ---
 
@@ -34,10 +34,10 @@
 - Start hacking 👩‍💻👨‍💻
 
 > **Navigation**:
-[⬅ Previous](#🔭%20Overview) |
-[Next ➡](#🔄%20Prerequisites) |
-[🔭 Overview](#🔭%20Overview) |
-[Top ⤴](#🐍%20Battle%20Snake,%20Hack%20&%20Refactor;%20Quick%20Start%20Boilerplate%20Code)
+[⬅ Previous](#🔭-Overview) |
+[Next ➡](#🔄-Prerequisites) |
+[🔭 Overview](#🔭-Overview) |
+[Top ⤴](#🐍-Battle-Snake,-Hack-&-Refactor;-Quick-Start-Boilerplate-Code)
 
 ---
 
@@ -64,10 +64,10 @@ There's nothing to install locally, you just need your browser and some websites
 - Online IDE with github integration and virtual instance for our web server/service
 
 > **Navigation**:
-[⬅ Previous](#🧭%20Objectives) |
-[Next ➡](#⏳%20Schedule) |
-[🔭 Overview](#🔭%20Overview) |
-[Top ⤴](#🐍%20Battle%20Snake,%20Hack%20&%20Refactor;%20Quick%20Start%20Boilerplate%20Code)
+[⬅ Previous](#🧭-Objectives) |
+[Next ➡](#⏳-Schedule) |
+[🔭 Overview](#🔭-Overview) |
+[Top ⤴](#🐍-Battle-Snake,-Hack-&-Refactor;-Quick-Start-Boilerplate-Code)
 
 ---
 
@@ -90,7 +90,7 @@ There's nothing to install locally, you just need your browser and some websites
 - [10 minutes] Save, commit, show & tell.
 
 > **Navigation**:
-[⬅ Previous](#🔄%20Prerequisites) |
+[⬅ Previous](#🔄-Prerequisites) |
 Next ➡ |
-[🔭 Overview](#🔭%20Overview) |
-[Top ⤴](#🐍%20Battle%20Snake,%20Hack%20&%20Refactor;%20Quick%20Start%20Boilerplate%20Code)
+[🔭 Overview](#🔭-Overview) |
+[Top ⤴](#🐍-Battle-Snake,-Hack-&-Refactor;-Quick-Start-Boilerplate-Code)
