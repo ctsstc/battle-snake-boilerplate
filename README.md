@@ -1,10 +1,20 @@
-# Battle Snake Quick Start Boilerplate
+# 🐍 Battle Snake, Hack & Refactor; Quick Start Boilerplate Code
 
 ## Agenda [Hello World 👋]
 
 ---
 
-### 🔭 Overview & Objectives
+### 🔭 Overview
+
+- [🧭 Objectives](#🧭%20Objectives)
+- [🔄 Prerequisites](#🔄%20Prerequisites)
+- [⚡ Initialize](#⚡%20Initialize)
+- [🧱 Breakout Sessions 🛠](#🧱%20Breakout%20Sessions%20🛠)
+- [🌯 Wrap Up](#🌯%20Wrap%20Up)
+
+---
+
+### 🧭 Objectives
 
 - What is snake, [battlesnake.io](http://battlesnake.io/), & AI?
 - What happens when you visit a website?
@@ -18,7 +28,7 @@
 
 ---
 
-### ⏪ Prerequisites
+### 🔄 Prerequisites
 
 Everything is in the cloud ☁
 
@@ -42,22 +52,20 @@ There's nothing to install locally, you just need your browser and some websites
 
 ---
 
-### ⚡ Initialize
+### ⏳ Schedule
+
+#### ⚡ Initialize
 
 - [5 minutes] Intro, objectives, defining some terms.
 - [5 minutes] Accounts, accounts, accounts, clone the boilerplate plate code from the Github repository.
 - [5 minutes] Live demo - snake moves across the screen and dies. Let's change that.
 
----
-
-### 🧱 Breakout Sessions 🛠
+#### 🧱 Breakout Sessions 🛠
 
 - [10 minutes] Get your snake moving 🐍
 - [10 minutes] What did we learn, what issues did we face‽
 - [15 minutes] Refactor. Better. Faster. Stronger. 💪
 
----
-
-### 🌯 Wrap Up
+#### 🌯 Wrap Up
 
 - [10 minutes] Save, commit, show & tell.
