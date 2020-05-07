@@ -6,12 +6,12 @@
 
 ### 🔭 Overview
 
-- [🧭 Objectives](#🧭-Objectives)
-- [🔄 Prerequisites](#🔄-Prerequisites)
-- [⏳ Schedule](#⏳-Schedule)
-  - [⚡ Initialize](#⚡-Initialize)
-  - [🧱 Breakout Sessions 🛠](#🧱-Breakout-Sessions-🛠)
-  - [🌯 Wrap Up](#🌯-Wrap-Up)
+- [🧭 Objectives](#-🧭-Objectives)
+- [🔄 Prerequisites](#-🔄-Prerequisites)
+- [⏳ Schedule](#-⏳-Schedule)
+  - [⚡ Initialize](#-⚡-Initialize)
+  - [🧱 Breakout Sessions 🛠](#-🧱-Breakout-Sessions-🛠)
+  - [🌯 Wrap Up](#-🌯-Wrap-Up)
 
 > **Navigation**:
 ⬅ Previous |
