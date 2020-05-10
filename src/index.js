@@ -1,7 +1,16 @@
 const express = require('express');
 const app = express();
+const reload = require('express-reload');
 const port = 3000;
+const path = `${__dirname}/src/`
 
-app.get('/', (req, res) => res.send('Hello World!'));
+app.use(reload(path));
 
-app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`));
+app.get('/', (req, res) => {
+  res.send('Hello World!');
+});
+
+app.listen(
+  port,
+  () => console.log(`App listening at http://localhost:${port}`)
+);
