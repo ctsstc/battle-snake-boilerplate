@@ -1,0 +1,20 @@
+{
+  "name": "battle-snake-broilerplate",
+  "version": "1.0.0",
+  "description": "Battle Snake Boilerplate code.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctsstc/battle-snake-boilerplate.git"
+  },
+  "author": "Cody Swartz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctsstc/battle-snake-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ctsstc/battle-snake-boilerplate#readme"
+}
