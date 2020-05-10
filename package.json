@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ctsstc/battle-snake-boilerplate/issues"
   },
-  "homepage": "https://github.com/ctsstc/battle-snake-boilerplate#readme"
+  "homepage": "https://github.com/ctsstc/battle-snake-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
