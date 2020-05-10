@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ctsstc/battle-snake-boilerplate#readme",
   "dependencies": {
+    "@types/express": "^4.17.6",
     "express": "^4.17.1"
   }
 }
