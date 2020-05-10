@@ -12,7 +12,7 @@
     "url": "git+https://github.com/ctsstc/battle-snake-boilerplate.git"
   },
   "author": "Cody Swartz",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ctsstc/battle-snake-boilerplate/issues"
   },
